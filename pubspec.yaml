@@ -1,4 +1,4 @@
-name: part5_mlkit_text_detector_starter
+name: mlkit_text_detector
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  win32: ^5.8.0
   image_picker: ^1.0.2
   camera: ^0.10.5+3
   path: ^1.8.3
